@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ebc40a7-fc9b-4237-bc8d-2f9c7b10e40a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dsa-py.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insertfront.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stackarrll.py" afterDir="false" />
-    </list>
+    <list default="true" id="3ebc40a7-fc9b-4237-bc8d-2f9c7b10e40a" name="Changes" comment="basic dsa solutions for LL and arrays" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,6 +113,30 @@
       <option name="presentableId" value="Default" />
       <updated>1751996079939</updated>
     </task>
+    <task id="LOCAL-00001" summary="basic dsa solutions for LL and arrays">
+      <option name="closed" value="true" />
+      <created>1753532560638</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753532560638</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="basic dsa solutions for LL and arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="basic dsa solutions for LL and arrays" />
   </component>
 </project>
