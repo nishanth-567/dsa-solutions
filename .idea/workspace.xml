@@ -4,13 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ebc40a7-fc9b-4237-bc8d-2f9c7b10e40a" name="Changes" comment="Initial commit">
+    <list default="true" id="3ebc40a7-fc9b-4237-bc8d-2f9c7b10e40a" name="Changes" comment="Array operations like insert, update, delete, traverse and size of the array.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <excluded-from-favorite>
@@ -34,22 +42,34 @@
     &quot;assignee&quot;: &quot;nishanth-567&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/nishanth-567/dsa-solutions.git&quot;,
-    &quot;accountId&quot;: &quot;354ae422-ebe1-443e-a90f-a1f7d172dfa2&quot;
+  <component name="GitHubPullRequestState"><![CDATA[{
+  "prStates": [
+    {
+      "id": {
+        "id": "PR_kwDOPEXVZM6g1p45",
+        "number": 3
+      },
+      "lastSeen": 1753636300061
+    }
+  ]
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nishanth-567/dsa-solutions.git",
+    "accountId": "354ae422-ebe1-443e-a90f-a1f7d172dfa2"
   },
-  &quot;recentNewPullRequestHead&quot;: {
-    &quot;server&quot;: {
-      &quot;useHttp&quot;: false,
-      &quot;host&quot;: &quot;github.com&quot;,
-      &quot;port&quot;: null,
-      &quot;suffix&quot;: null
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
     },
-    &quot;owner&quot;: &quot;nishanth-567&quot;,
-    &quot;repository&quot;: &quot;dsa-solutions&quot;
-  }
-}</component>
+    "owner": "nishanth-567",
+    "repository": "dsa-solutions"
+  },
+  "highlightDiffLinesInEditor": true
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -59,32 +79,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.LLops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arrelememts.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arrop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arrsum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.basics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bs4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dectrng.executor&quot;: &quot;Run&quot;,
-    &quot;Python.elements.executor&quot;: &quot;Run&quot;,
-    &quot;Python.insertfront.executor&quot;: &quot;Run&quot;,
-    &quot;Python.linkedlist.executor&quot;: &quot;Run&quot;,
-    &quot;Python.matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Python.maxmin.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mmatrix.executor&quot;: &quot;Run&quot;,
-    &quot;Python.multiarray.executor&quot;: &quot;Run&quot;,
-    &quot;Python.queue.executor&quot;: &quot;Run&quot;,
-    &quot;Python.stackarrll.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;#1 on master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ArrayOperations.executor": "Run",
+    "Python.LLops.executor": "Run",
+    "Python.array.executor": "Run",
+    "Python.arrelememts.executor": "Run",
+    "Python.arrop.executor": "Run",
+    "Python.arrsum.executor": "Run",
+    "Python.basics.executor": "Run",
+    "Python.bs4.executor": "Run",
+    "Python.dectrng.executor": "Run",
+    "Python.elements.executor": "Run",
+    "Python.insertfront.executor": "Run",
+    "Python.linkedlist.executor": "Run",
+    "Python.matrix.executor": "Run",
+    "Python.maxmin.executor": "Run",
+    "Python.mmatrix.executor": "Run",
+    "Python.multiarray.executor": "Run",
+    "Python.queue.executor": "Run",
+    "Python.stackarrll.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "#3 on master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.updates"
   }
-}</component>
-  <component name="RunManager" selected="Python.insertfront">
+}]]></component>
+  <component name="RunManager">
     <configuration name="insertfront" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dsa-py" />
       <option name="ENV_FILES" value="" />
@@ -168,7 +189,47 @@
       <option name="project" value="LOCAL" />
       <updated>1753533012398</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Array operations like insert, delete, traverse, size and update the array.">
+      <option name="closed" value="true" />
+      <created>1753635521088</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753635521088</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Array operations like insert, delete, traverse, size and update the array.">
+      <option name="closed" value="true" />
+      <created>1753635585588</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753635585588</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Array operations like insert, delete, traverse, size and update the array.">
+      <option name="closed" value="true" />
+      <created>1753635695187</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1753635695187</updated>
+    </task>
+    <task id="LOCAL-00006" summary="queue.py">
+      <option name="closed" value="true" />
+      <created>1753636207768</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1753636207768</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Array operations like insert, update, delete, traverse and size of the array.">
+      <option name="closed" value="true" />
+      <created>1753640417958</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1753640417958</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +258,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="basic dsa solutions for LL and arrays" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Array operations like insert, delete, traverse, size and update the array." />
+    <MESSAGE value="queue.py" />
+    <MESSAGE value="Array operations like insert, update, delete, traverse and size of the array." />
+    <option name="LAST_COMMIT_MESSAGE" value="Array operations like insert, update, delete, traverse and size of the array." />
   </component>
 </project>
