@@ -21,6 +21,7 @@ def update_element(arr, index, value):
     arr[index] = value
     return arr
 
+print("Nishanth, 24217, CSE-C")
 arr = list(map(int, input("Enter elements of the list separated by space: ").split()))
 
 print("Original list:")
@@ -48,4 +49,5 @@ index = int(input("Enter index to update: "))
 value = int(input("Enter new value: "))
 arr = update_element(arr, index, value)
 print("After update:")
+
 traverse_list(arr)
