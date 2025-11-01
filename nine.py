@@ -64,3 +64,7 @@ print("Breadth-First Search Traversal:")
 graph.bfs(start)
 print()
 
+''' 
+I wrote a small undirected-graph script using a dictionary-of-lists adjacency list with add_vertex/add_edge helpers, plus recursive DFS and deque-based BFS that print nodes as they’re visited. The script runs interactively: you enter edges, it shows the adjacency list, then performs DFS and BFS from a start node you choose.
+'''
+
