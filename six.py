@@ -29,6 +29,7 @@ class MinHeap:
 
 min_heap = MinHeap()
 
+print("Nishanth, 24217, CSE-C")
 n = int(input("Enter number of elements to insert in the heap: "))
 for i in range(n):
     value = int(input(f"Enter element {i+1}: "))
@@ -46,3 +47,4 @@ min_heap.heapify()
 min_heap.display()
 
 print("Heap Sort Result (Ascending Order):", min_heap.heap_sort())
+
