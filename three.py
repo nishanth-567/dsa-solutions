@@ -61,7 +61,7 @@ class CircularQueue:
         print()
 
 
-print("Normal Queue Operations:")
+print("Nishanth, 24217, CSE-C")
 q = Queue()
 n = int(input("Enter number of elements to enqueue: "))
 for i in range(n):
@@ -96,3 +96,4 @@ if choice == 'y':
     val = int(input("Enter value to enqueue: "))
     cq.enqueue(val)
 cq.display()
+
