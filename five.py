@@ -61,6 +61,7 @@ class BST:
 bst = BST()
 root = None
 
+print("Nishanth, 24217, CSE-C")
 n = int(input("Enter number of elements to insert in BST: "))
 for i in range(n):
     val = int(input(f"Enter value {i+1}: "))
@@ -80,3 +81,4 @@ root = bst.delete(root, key)
 print("Inorder traversal after deletion:")
 bst.inorder(root)
 print()
+
