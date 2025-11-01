@@ -42,6 +42,7 @@ def merge_sort(arr):
             k += 1
     return arr
 
+print("Nishanth, 24217, CSE-C")
 user_input = input("Enter integers separated by space: ")
 arr = list(map(int, user_input.split()))
 
@@ -66,3 +67,4 @@ print("Sorted using Merge Sort:", sorted_merge)
 print("\nPerformance Comparison:")
 print(f"Insertion Sort Time: {insertion_time:.6f} seconds")
 print(f"Merge Sort Time:     {merge_time:.6f} seconds")
+
