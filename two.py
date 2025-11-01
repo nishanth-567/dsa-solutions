@@ -65,6 +65,7 @@ class Stack:
         return self.top is None
 
 
+print("Nishanth, 24217, CSE-C")
 print("Linked List Operations:")
 ll = LinkedList()
 n = int(input("Enter number of elements to insert in linked list: "))
@@ -102,3 +103,4 @@ if choice == 'y':
     print("Popped element:", stack.pop())
 
 print("Current top element (peek):", stack.peek())
+
